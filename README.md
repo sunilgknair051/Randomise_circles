@@ -1,2 +1,2 @@
-# Randomise_circles
-A simple randomize algo for circles in an area.
+# Random
+A simple randomize algo for circles or points in an area.
